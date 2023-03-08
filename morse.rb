@@ -39,3 +39,12 @@ arr_word.each do |ch|
 end
 return result
 end
+
+def decode (words)
+array_words = words.split('   ')
+arr = []
+array_words.each do |word|
+    arr.push(decode_word(word))
+end
+return arr.join(' ')
+end
