@@ -26,7 +26,7 @@ This is an example of how you may give instructions on setting up your project l
 
 # 📖 [Decode-Morse-Code] <a name="about-project"></a>
 
-**A simple Ruby code to debug the morse code and convert into plain english.
+ A simple Ruby code to debug the morse code and convert into plain english.
 
 ## 🛠 Built With <a name="built-with"></a>
 
